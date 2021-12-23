@@ -1,0 +1,24 @@
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\bin\Debug\Buying_House_Log_In_Form.exe.config
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\bin\Debug\Buying_House_Log_In_Form.exe
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\bin\Debug\Buying_House_Log_In_Form.pdb
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.Form1.resources
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.exe
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.pdb
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.Form2.resources
+C:\Users\ASUS\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.Form3.resources
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\bin\Debug\Buying_House_Log_In_Form.exe.config
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\bin\Debug\Buying_House_Log_In_Form.exe
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\bin\Debug\Buying_House_Log_In_Form.pdb
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.csproj.AssemblyReference.cache
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.Form1.resources
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.Form2.resources
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.Form3.resources
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.Properties.Resources.resources
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.csproj.GenerateResource.cache
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.csproj.CoreCompileInputs.cache
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.exe
+C:\Users\Ananna Rashid\source\repos\Buying_House_Log_In_Form\Buying_House_Log_In_Form\obj\Debug\Buying_House_Log_In_Form.pdb
